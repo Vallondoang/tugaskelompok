@@ -113,6 +113,9 @@ nav ul li a {
 .product-item button:hover {
     background: #558700;
 }
+.regislog{
+float:right;
+}
 .ti2080{
     background-image: url("images/2080ti.png");
     background-repeat: no-repeat;
