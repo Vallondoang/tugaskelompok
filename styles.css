@@ -114,7 +114,8 @@ nav ul li a {
     background: #558700;
 }
 .regislog{
-float:right;
+    float:right;
+    padding: 10px 0;
 }
 .ti2080{
     background-image: url("images/2080ti.png");
